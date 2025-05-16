@@ -1,0 +1,11 @@
+# Python
+pycache/
+*.py[cod]
+*.so
+.Python
+env/
+
+# Spark
+derby.log
+metastore_db/
+spark-warehouse/
